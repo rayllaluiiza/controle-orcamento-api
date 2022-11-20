@@ -2,7 +2,7 @@
 
 namespace ControleOrcamentoAPI.Controllers
 {
-    public class DespesasController : ControllerBase
+    public class DespesaController : ControllerBase
     {
     }
 }

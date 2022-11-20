@@ -5,10 +5,10 @@ namespace ControleOrcamentoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class ReceitasController : ControllerBase
+    public class ReceitaController : ControllerBase
     {
         [HttpPost]
-        public void add([FromBody] Receitas receita)
+        public void add([FromBody] Receita receita)
         {
 
         }
